@@ -1,2 +1,2 @@
 # learning
-code learning
+code learning for git command
